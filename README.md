@@ -1,2 +1,2 @@
-# MC-Downloader
+# Downloader
 Easily download skripts.
